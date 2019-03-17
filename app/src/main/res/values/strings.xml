@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="sp">single player (against CPU)</string>
+    <string name="tp">two player</string>
+    <string name="welcome">WELCOME TO THE DICE GAME</string>
+    <string name="roll">ROLL</string>
+    <string name="hold">HOLD</string>
+    <string name="reset">RESET</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
